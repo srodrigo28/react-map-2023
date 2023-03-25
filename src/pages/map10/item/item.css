@@ -1,0 +1,18 @@
+.item{
+    display: flex;
+    flex-direction: column;
+}
+tr{
+    
+    padding: 10px;
+    margin: 10px; 
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+td, th{
+    padding: 10px;
+}
+tr:hover{
+    background-color: violet;
+    cursor: pointer;
+}

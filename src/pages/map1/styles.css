@@ -1,11 +1,16 @@
+*{  border: none;
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
 div{
     margin-top: 30px;
 }
 span{
-    margin:20px;
+    margin: 5px;
     padding: 10px;
-    width: 200px;
-    border: 1px solid black;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 5px;
 }
 span:hover{
     color: #fff;

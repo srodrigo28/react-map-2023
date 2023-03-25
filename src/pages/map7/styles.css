@@ -1,0 +1,22 @@
+.map7{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ccc;
+}
+h1{
+    margin: 20px; color: white;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 70%;
+    font-size: 80%;
+    padding: 10px;
+    color: white;
+    margin: 5px; 
+    background-color: violet;}

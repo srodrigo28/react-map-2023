@@ -1,0 +1,13 @@
+.map9{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white; font-weight: bold;
+}
+.main{
+    
+    margin-top: 80px;
+
+}

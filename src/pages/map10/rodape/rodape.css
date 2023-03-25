@@ -1,0 +1,21 @@
+.rodape{
+    display: flex;
+    height: 20px;
+    align-items: start;
+    justify-content: center;
+}
+
+p{
+    height: 50px;
+    margin: 7px;
+    margin-top: 40px;
+    padding: 14px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+}
+p:hover{
+    background-color: violet;
+    cursor: pointer;
+    
+}

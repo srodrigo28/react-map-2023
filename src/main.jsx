@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import { Map2 } from './pages/map2'
+import { Map10 } from './pages/map10'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Map2 />
+    <Map10 />
   </React.StrictMode>,
 )

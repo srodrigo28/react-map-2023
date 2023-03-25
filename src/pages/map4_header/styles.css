@@ -1,0 +1,21 @@
+div{
+    display: flex;
+    height: 100vh;
+    align-items: start;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+img{
+    width: 48px;
+    margin: 7px;
+    padding: 10px;
+    background-color: green;
+    border-radius: 5px;
+}
+img:hover{
+    background-color: blueviolet;
+    padding: 10px;
+    cursor: pointer;
+    
+}
